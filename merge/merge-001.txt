@@ -1,5 +1,9 @@
 #####################
 # Simple Merge test
+<<<<<<< HEAD
 #####################
 
 #### Change 001 #######
+=======
+#####################
+>>>>>>> branch 'refs/heads/master' of git@github.com:thorque/git-sample.git
